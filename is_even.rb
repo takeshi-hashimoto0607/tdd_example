@@ -1,7 +1,3 @@
 def is_even(number)
-  if number % 2 == 0
-    true
-  else
-    false
-  end
+  number % 2 == 0
 end
